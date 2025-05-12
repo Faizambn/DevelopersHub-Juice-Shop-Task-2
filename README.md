@@ -270,8 +270,8 @@ Licensed under the [MIT License](LICENSE).
 ## 📬 Contact
 
 **Faiza Mobeen**
- |  [GitHub](https://www.github.com/Faizambn)
-| 📧 [faizamobeen231def@gmail.com](mailto:faizamobeen231def@gmail.com)
+ |  [GitHub](https://www.github.com/Faizambn) 
+ 📧 [faizamobeen231def@gmail.com](mailto:faizamobeen231def@gmail.com)
 
 ## 📈 Project Stats
 
