@@ -1,0 +1,7 @@
+[juice-shop]
+enabled = true
+port = 3000
+filter = juice-shop
+logpath = /home/cipher/Downloads/juice-shop/logs/access.log
+maxretry = 3
+bantime = 600
